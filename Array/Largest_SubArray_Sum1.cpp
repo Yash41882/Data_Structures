@@ -1,4 +1,4 @@
-//Using Brute Force Approach --> That Means we are gonna check for evey possible case.
+//Using Brute Force Approach --> That Means we are gonna check for evey possible case. (Time Complexity = N^3)
 //It is more time consuming and thus is more complex.
 
 #include<iostream>
