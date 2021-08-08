@@ -1,3 +1,6 @@
+//Using Brute Force Approach --> That Means we are gonna check for evey possible case.
+//It is more time consuming and thus is more complex.
+
 #include<iostream>
 using namespace std;
 
