@@ -1,5 +1,6 @@
 //OWN LOGIC
-//Sorting the array and then print the kth element accordingly.
+//Sorting the array and then print the kth element accordingly. 
+// Time complexity = Time complexity of bubble sort = O(N^2)
 
 #include <iostream>
 using namespace std;
