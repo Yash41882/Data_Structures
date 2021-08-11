@@ -1,3 +1,6 @@
+// Brute force Method
+//Complexity = O(N)
+
 #include<iostream>
 using namespace std;
 
