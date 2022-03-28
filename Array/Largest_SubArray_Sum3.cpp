@@ -28,10 +28,10 @@ int Input_Array(int arr[], int n)
 
 int Largest_SubArray_Sum3(int arr[], int n)
 {
-    int Largest_Sum = 0;
+    int Largest_Sum = INT_MIN;
     int Current_Sum = 0;
     
-    for(int i = 1; i < n; i++)
+    for(int i = 0; i < n; i++)
     {
         Current_Sum = Current_Sum + arr[i];
         if(Current_Sum < 0)
